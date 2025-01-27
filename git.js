@@ -46,6 +46,11 @@ Chapter 2 : Add and Commit
     Commit : It is the record of change
     command :  git commit -m "some message"
 
-        
-
  */
+
+/*
+Chapter 3 : Push command : i.e local se remote changes ko bhejne ke liye iska use karte hai
+     
+       push: upload local repo content to remote repo i.e to make changes visible on github
+       command: git push origin main
+*/
