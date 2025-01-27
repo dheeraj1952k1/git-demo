@@ -1,4 +1,5 @@
-/*
+/*  Commands useful if you clone a git repo and make changes
+   i.e pahle github pe repository banaya fir project me updation kar rhe hai
 Chapter 1 =  Clone and Status : 
 
 Clone means duplicate : Cloning a repository on our local machine
@@ -8,7 +9,9 @@ Commands:
     * git clone <-some link -> :
        here 'some link' refer to http link of the project you want to clone
 
-    * cd : change directory
+    * cd : change directory i.e to go inside directory
+      cd ..  : to come out of directory
+      
 
     * clear : to clear terminal
 
@@ -53,4 +56,7 @@ Chapter 3 : Push command : i.e local se remote changes ko bhejne ke liye iska us
      
        push: upload local repo content to remote repo i.e to make changes visible on github
        command: git push origin main
+
+       origin : means hum usi original repo pe changes push karna chahte hai jaha se clone kiya
+       main : it's the name of branch
 */
